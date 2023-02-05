@@ -1,4 +1,4 @@
-Project Description: Assuming I am a data analyst at Udemy, I have been given a task by my manager to present the data on course revenue, and I have been provided with data on courses from different topics to understand where opportunities to increase revenue may lie, and track the performance of courses.
+**Project Description**: Assuming I am a data analyst at Udemy, I have been given a task by my manager to present the data on course revenue, and I have been provided with data on courses from different topics to understand where opportunities to increase revenue may lie, and track the performance of courses. Another task is to geth the details of the top 20 most subscribed courses.
 My manager has suggested encouraging Web Development courses to charge more because she believes that these are the most popular courses.
 
 This [repository](https://github.com/distinctkemi/Udemy-course-analysis-with-tableau) contains both the dataset used for the study and a comprehensive report on the analysis' results.
