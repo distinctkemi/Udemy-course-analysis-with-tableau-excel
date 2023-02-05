@@ -23,7 +23,8 @@ About the dataset: There were four datasets for different subjects (web developm
 Three additional columns were added before the analysis using certain formulas in google sheets, and they were created from the price and published timestamp columns using vlookup, if statement, and left function. The new columns are 
 
  Before the analysis, three additinal columns were included, they were extracted from the price and published timestamp columns using some formulas(vlookup, if formula, and left formula). These new columns are:
-
+ 
+| Column title | Description |
 |---------------| ------------------ |
 |`year`| This column only contains the year the courses were published|
 |`Date`| This column shows the full date the courses were published (month, day, year|
