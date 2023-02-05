@@ -39,7 +39,7 @@ Three additional columns were added before the analysis using certain formulas i
 - Since 2011, the total amount of income created annually has generally increased across all subjects, with Web development producing the most income, but in 2017, the income from each subject decreased.
 - Based on the analysis, the number of subscribers for all subjects decreased drastically after beginner level to intermediate level.
 
-I created an interactive dashboard of the insights from this analaysis, click (here)[https://public.tableau.com/app/profile/adekemi8173/viz/Udemycourseanalysis_16754714438190/Dashboard1?publish=yes] to view the dashboard.
+I created an interactive dashboard of the insights from this analaysis, click [here](https://public.tableau.com/app/profile/adekemi8173/viz/Udemycourseanalysis_16754714438190/Dashboard1?publish=yes) to view the dashboard.
 
 
 
