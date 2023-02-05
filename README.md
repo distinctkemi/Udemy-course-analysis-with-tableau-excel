@@ -1,9 +1,11 @@
-As a data analyst at Udemy, I have been given a task to present data on course revenue and identifying opportunities to increase revenues, as well as tracking course performance given four dataset that consist of different courses under one subject. This (repository)[https://github.com/distinctkemi/Udemy-course-analysis-with-tableau] contains both the dataset used for the study and a comprehensive report on the analysis' results.
+As a data analyst at Udemy, I have been given a task to present data on course revenue and identifying opportunities to increase revenues, as well as tracking course performance given four dataset that consist of different courses under one subject. This [repository](https://github.com/distinctkemi/Udemy-course-analysis-with-tableau) contains both the dataset used for the study and a comprehensive report on the analysis' results.
 
-About the dataset: There were four datasets for different subjects (web development, business finance, graphic design and musical instruments) and they were merged to make a single file, after merging the dataset consist if 3,677 rows and 12 columns. The columns in this dataset include
-|`Course_id` | This is a unique id number for each course
+About the dataset: There were four datasets for different subjects (web development, business finance, graphic design and musical instruments) and they were merged to make a single file, after merging the dataset consist if 3,677 rows and 12 columns. The columns in this dataset include:
+
+
+|`Course_id` | This is a unique id number for each course |
 ---------------------------------------------------------
-|`Course_title | Title of course
+|`Course_title` | Title of course |
 ---------------------------------------------------------
 
 
