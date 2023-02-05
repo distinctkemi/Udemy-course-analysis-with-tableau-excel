@@ -3,7 +3,7 @@ As a data analyst at Udemy, I have been given a task to present data on course r
 About the dataset: There were four datasets for different subjects (web development, business finance, graphic design and musical instruments) and they were merged to make a single file, after merging the dataset consist if 3,677 rows and 12 columns. The columns in this dataset include:
 
 | Column title | Description |
----------------------------------
+|---------------| ------------------ |
 |`Course_id`    | This is a unique id number for each course |
 |`Course_title` | Title of course                            |
 | Url | The course's website |
