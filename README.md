@@ -30,6 +30,18 @@ Three additional columns were added before the analysis using certain formulas i
 |`Date`| This column shows the full date the courses were published (month, day, year|
 |`Free or Paid`| This is an indicator for free or paid courses |
 
+**Summary of findings**
+- Web development is the subject with the most subscribers out of the four with almost 70% of the whole data, and it has tripled or more the subscribers of the other three. This is the first data-driven insight identified.
+- Despite having the most expensive average cost, of its intermediate level courses, the web development field nonetheless has the most subscribers for its intermediate level courses
+- Web development continues to have the biggest number of subscribers on even paid courses when compared to others, with a significant disparity, web development has over 5 million subscribers of the paid courses and only approximately of 2.4 million of free courses.
+- An intriguing finding from this data is that, in terms of average ratings, graphic design is rated highest, while web development, which is the main focus, is rated second-to-last in the pyramid.
+- Web development courses have experienced the highest number of subscribers compared to other subjects since 2011, growing year over year, but experiencing a fall between 2015 to 2017. It is important to recognise and comprehend the reasons for this recent decline in subscribers.
+- Since 2011, the total amount of income created annually has generally increased across all subjects, with Web development producing the most income, but in 2017, the income from each subject decreased.
+- Based on the analysis, the number of subscribers for all subjects decreased drastically after beginner level to intermediate level.
+
+I created an interactive dashboard of the insights from this analaysis, click (here)[https://public.tableau.com/app/profile/adekemi8173/viz/Udemycourseanalysis_16754714438190/Dashboard1?publish=yes] to view the dashboard.
+
+
 
 
 ![alt text](https://github.com/distinctkemi/Udemy-course-analysis-with-tableau/blob/main/Udemy%20Courses.png)
