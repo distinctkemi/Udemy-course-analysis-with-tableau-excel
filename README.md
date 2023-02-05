@@ -4,11 +4,9 @@ About the dataset: There were four datasets for different subjects (web developm
 
 
 |`Course_id`    | This is a unique id number for each course |
-|`Course_title` | Title of course |
-
-
-
-Url: The course's website
+|`Course_title` | Title of course                            |
+| Url | The course's website |
+|
 Price: Cost of course
 Num_subscribers: Number of subscribers to the course
 Num_reviews: NUmber of reviews for the course
