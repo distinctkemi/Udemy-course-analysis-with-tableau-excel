@@ -24,6 +24,7 @@ Three additional columns were added before the analysis using certain formulas i
 
  Before the analysis, three additinal columns were included, they were extracted from the price and published timestamp columns using some formulas(vlookup, if formula, and left formula). These new columns are:
 
+|---------------| ------------------ |
 |`year`| This column only contains the year the courses were published|
 |`Date`| This column shows the full date the courses were published (month, day, year|
 |`Free or Paid`| This is an indicator for free or paid courses |
