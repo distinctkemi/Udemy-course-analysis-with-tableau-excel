@@ -41,7 +41,7 @@ Three additional columns were added before the analysis using certain formulas i
 
 I created an interactive dashboard of the insights from this analaysis, click [here](https://public.tableau.com/app/profile/adekemi8173/viz/Udemycourseanalysis_16754714438190/Dashboard1?publish=yes) to view the dashboard.
 
-
+You can also see the pivot tables and visualisation I generated from googlesheets [here](https://docs.google.com/spreadsheets/d/1Nh9Owk_KV8hQQc-jS8rwe7A7V9AkSDT_ovY0m9AqFGo/edit?usp=sharing)
 
 
 ![alt text](https://github.com/distinctkemi/Udemy-course-analysis-with-tableau/blob/main/Udemy%20Courses.png)
